@@ -4,7 +4,7 @@ qxtsTech
 * ~> linktree: https://linktr.ee/realmegtneo2hype
 * ~> Discord : qxts___#0000 (alt: qxts.asitwas#0000, currently not used for daily chatting)
 * ~> Discord Server soon! (In security development)
-* ~> Website in progress (searching hosting domain ^w^)
+* ~> Website : https://qxtstech.github.com/about/
 
 * => MAIN: realme GT Neo2 5G
 
