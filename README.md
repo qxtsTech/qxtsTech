@@ -21,28 +21,6 @@ Other phones:
 
 Programmer, techtoker, web front-end designer and hacker.
 
+Archlinux User 
 
-Archlinux User
-
-                   -`                    qxts@archlinux 
-                  .o+`                   -------------- 
-                 `ooo/                   OS: Arch Linux x86_64 
-                `+oooo:                   
-               `+oooooo:                 Kernel: 6.9.7-arch1-1 
-               -+oooooo+:                Uptime: 26 mins 
-             `/:-:++oooo+:               Packages: 1338 (pacman), 9 (flatpak) 
-            `/++++/+++++++:              Shell: bash 5.2.26 
-           `/++++++++++++++:             Resolution: 1440x900 
-          `/+++ooooooooooooo/`           DE: Plasma 6.1.1 
-         ./ooosssso++osssssso+`          WM: kwin 
-        .oossssso-````/ossssss+`         Theme: Breeze-Dark [GTK2], Breeze [GTK3] 
-       -osssssso.      :ssssssso.        Icons: Reversal-black-dark [GTK2/3] 
-      :osssssss/        osssso+++.       Terminal: konsole 
-     /ossssssss/        +ssssooo/-       Terminal Font: Hack 10 
-   `/ossssso+/:-        -:/+osssso+-     CPU: AMD Phenom II X4 840 (4) @ 3.200GHz 
-  `+sso+:-`                 `.-/+oso:    GPU: NVIDIA GeForce GT 430 
- `++:.                           `-/+/   
- .`                                 `/   Nya~ :3 
-
-
- 
+Nya~ :3 
