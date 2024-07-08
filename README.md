@@ -1,6 +1,6 @@
 qxtsTech
 
-* ~> tiktok: https://tiktok.com/@realme.gt.neo2.hy
+* ~> tiktok: https://tiktok.com/@realmeGTNeo2Hype
 * ~> linktree: https://linktr.ee/realmegtneo2hype
 * ~> Discord : qxts___#0000 (alt: qxts.asitwas#0000, currently not used for daily chatting)
 * ~> Discord Server soon! (In security development)
