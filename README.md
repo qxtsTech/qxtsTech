@@ -4,7 +4,7 @@ qxtsTech
 * ~> linktree: https://linktr.ee/realmegtneo2hype
 * ~> Discord : qxts.q
 * ~> Website : in progress (CSS styling)
-* 
+
 * => MAIN: iPhone SE 2 gen temp cuz realme died :c
 
 Other phones: 
